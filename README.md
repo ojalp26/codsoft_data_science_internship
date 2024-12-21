@@ -4,8 +4,7 @@
 
 Projects/ tasks that were completed for internship are as below:
 
-**Task no. 1: Titanic Survival Prediction**
-(./path/to/codsoft_taskno1)
+[**Task 1: Titanic Survival Prediction**](./codsoft_taskno1)
 Developed a machine learning model to predict Titanic passenger survival based on features like age, gender, and ticket class. Various models like Logistic Regression, Gradient Boosting, and XGBoost were used and evaluated using accuracy and classification metrics.
 
 
