@@ -3,6 +3,7 @@
 
 
 
+
 Projects/ tasks that were completed for internship are as below:
 
 **Task 1: Titanic Survival Prediction**
@@ -12,11 +13,15 @@ Projects/ tasks that were completed for internship are as below:
 Developed a machine learning model to predict Titanic passenger survival based on features like age, gender, and ticket class. Various models like Logistic Regression, Gradient Boosting, and XGBoost were used and evaluated using accuracy and classification metrics.
 
 
+
+
 **Task no. 3: Iris Flower Classification**
 
 [click here to view](./codsoft_taskno3)
 
 Built a classification model to predict the species of Iris flowers (Setosa, Versicolor, Virginica) based on sepal and petal measurements using the Iris dataset. Random Forest Classifier was used, with evaluation metrics including accuracy, confusion matrix, and classification report.
+
+
 
 
 **Task no. 4: Sales Prediction Using Python**
