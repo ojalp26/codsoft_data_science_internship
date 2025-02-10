@@ -1,10 +1,8 @@
-# codsoft_data_science_internship
+# CodSoft Data Science Internship : 
 
----
 
-**CodSoft Data Science Internship** : 
 
-This repository contains the projects and tasks completed during the CodSoft Data Science Internship. It showcases hands-on experience in data analysis, visualization, and machine learning techniques, applied to real-world datasets and problems. #codsoft #internship #datascience
+This repository contains the projects and tasks completed during the CodSoft Data Science Internship. It showcases hands-on experience in data analysis, visualization, and machine learning techniques, applied to real-world datasets and problems.
 
 ---
 
@@ -40,3 +38,5 @@ Created a machine learning model to forecast sales based on factors like adverti
 Here's my internship completion certification 
 
 [click here to view](https://www.linkedin.com/posts/ojal-paturday-7246ab321_codsoft-datascience-certification-activity-7278832883199324160-Maab?utm_source=share&utm_medium=member_desktop)
+
+---
